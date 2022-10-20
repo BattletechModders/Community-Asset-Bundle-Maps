@@ -1,0 +1,7 @@
+Changelog for CAB-Maps
+
+-----------------------------------------------------
+
+1.0
+
+Initial Commit of KMiSSioN's example maps
