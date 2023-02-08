@@ -1,11 +1,8 @@
 Attributions for CAB-Maps
 
-This document will detail the various contributors to this collection of community assets for BattleTech by Harebrained Schemes. Each asset will have its listed author (the person or organization that made the model) and the license under which that author releases their model.
+This document will detail the various contributors to this collection of community assets for BattleTech by Harebrained Schemes. Each asset will have its listed author (the person or organization that made the model).
 
 KMiSSioN
-License: 
-Unlisted
-
 Maps:
 mapArena_riverCrossing_vHigh_test
 mapGeneral_waterWorld_vJung
